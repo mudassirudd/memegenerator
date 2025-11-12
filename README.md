@@ -7,7 +7,7 @@ A fun, interactive **React web app** that lets you create custom memes with ease
 
 ## 🚀 Live Demo
 
-**[View the live app here →](https://mudassirudd.github.io/memegenerator)**
+**[View the live app here →](https://memegenerator-tawny-psi.vercel.app/)**
 
 
 
